@@ -1,0 +1,66 @@
+# ----------------------------
+# Salesforce DX and Metadata
+# ----------------------------
+.sfdx/
+*.log
+*.tmp
+*.bak
+*.old
+
+# ----------------------------
+# VSCode Project Settings
+# ----------------------------
+.vscode/
+.settings/
+
+# ----------------------------
+# macOS and Windows System Files
+# ----------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ----------------------------
+# Node.js / NPM (if applicable)
+# ----------------------------
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# ----------------------------
+# IDEs (JetBrains, Eclipse, etc.)
+# ----------------------------
+.idea/
+.classpath
+.project
+.settings/
+
+# ----------------------------
+# Build & Coverage
+# ----------------------------
+build/
+dist/
+coverage/
+lcov-report/
+
+# ----------------------------
+# Environment Config Files
+# ----------------------------
+.env
+.env.local
+.env.production
+.env.*
+
+# ----------------------------
+# Office or Temporary Files
+# ----------------------------
+~$*
+*.swp
+*.swo
+
+# ----------------------------
+# Demo Media (Optional Exclusion)
+# ----------------------------
+demo/*.mp4
+demo/*.mov
+demo/*.avi
