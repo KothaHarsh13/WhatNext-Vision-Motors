@@ -15,7 +15,6 @@ This project is built for **WhatNext Vision Motors**, a fictional automotive com
 - 👨‍💻 Role: Salesforce Developer Intern
 - 🏢 Organization: WhatNext Vision Motors (Simulation)
 - 🏅 Program Affiliation: Agentblazer Champion
-- 📅 Duration: [Insert your internship dates]
 - 📍 Mode: 100% Virtual
 
 ---
